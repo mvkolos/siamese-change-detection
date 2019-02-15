@@ -1,0 +1,12 @@
+## global
+.DS_Store
+.idea
+.settings
+.ipynb_checkpoints
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
